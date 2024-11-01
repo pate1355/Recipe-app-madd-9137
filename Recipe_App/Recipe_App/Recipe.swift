@@ -6,6 +6,8 @@
 //
 
 import Foundation
+import SwiftUI
+import PhotosUI
 
 struct Recipe: Identifiable{
     var id = UUID() 
@@ -13,4 +15,6 @@ struct Recipe: Identifiable{
     var description: String
     var ingredients: [String]
     var steps: [String]
+    var imgAlt: String
+    var imageData: Data?
 }
