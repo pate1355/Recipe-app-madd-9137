@@ -38,5 +38,5 @@ SwiftRecipe is a simple recipe management app built with SwiftUI. This app allow
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/MAD9137-SwiftRecipe.git
+   git clone https://github.com/pate1355/Recipe-app-madd-9137.git
    ```
